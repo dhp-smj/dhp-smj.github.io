@@ -10,26 +10,36 @@ baseurl                  : ""
 repository               : "dhp-smj/dhp-smj.github.io"
 
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
 author:
   avatar           : "profile.png"
   name             : "Urusha Thapa"
+  pronouns         : "she/her"
   bio              : "PhD Candidate | Strategic Management & Public Policy"
   location         : "Washington, DC"
   employer         : "George Washington University"
   email            : "urusha1@gwu.edu"
 
-
-  
-  # Academic websites
+  academia         :
+  arxiv            :
   googlescholar    :
+  inspire-hep      :
+  impactstory      :
   orcid            :
+  semantic         :
+  ssrn             :
   pubmed           :
+  researchgate     :
+  scopus           :
+  zotero           :
+  bitbucket        :
+  codepen          :
+  dribbble         :
   github           :
-
-
+  kaggle           :
+  stackoverflow    :
+  bluesky          :
+  linkedin         :
+  twitter          :
 
   
   # Repositories and software development
