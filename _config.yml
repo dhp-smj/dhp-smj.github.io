@@ -19,28 +19,7 @@ author:
   employer         : "George Washington University"
   email            : "urusha1@gwu.edu"
 
-  academia         :
-  arxiv            :
-  googlescholar    :
-  inspire-hep      :
-  impactstory      :
-  orcid            :
-  semantic         :
-  ssrn             :
-  pubmed           :
-  researchgate     :
-  scopus           :
-  zotero           :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  github           :
-  kaggle           :
-  stackoverflow    :
-  bluesky          :
-  linkedin         :
-  twitter          :
-
+  
   
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
