@@ -1,7 +1,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Urusha Thapa | PhD Candidate"
+title                    : "Urusha Thapa"
 title_separator          : "-"
 name                     : &name "Urusha Thapa"
 description              : &description "PhD Candidate in Strategic Management & Public Policy | GWU"
